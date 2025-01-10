@@ -1,5 +1,5 @@
 
-# E-commerce Customer Analysis and Prediction
+# E-commerce Customer Analysis and Prediction 
 
 This project demonstrates the application of machine learning models to predict customer behavior in an e-commerce platform. The dataset consists of customer information, including demographics, session data, and purchase history. The goal of this analysis is to predict customer purchase behavior based on several features.
 
